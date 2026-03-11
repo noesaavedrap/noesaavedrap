@@ -24,8 +24,8 @@ Soy un emprendedor digital enfocado en **crear proyectos online, marcas y sistem
 
 Actualmente trabajo en:
 
-🚀 **Zentrix** — Panel SMM  
-👕 **Dabi** — Marca de ropa streetwear  
+🚀 **Spaces** — Panel SMM & Marketing  
+👕 **Krosmos** — Marca de ropa streetwear  
 🎥 **Streaming y contenido digital**
 
 Siempre buscando **crear cosas grandes en internet**.
