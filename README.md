@@ -1,4 +1,4 @@
-<<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1120,100:111827&height=300&section=header&text=NOE%20SAAVEDRA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20•%20Emprendedor%20Digital%20•%20Brand%20Builder&descAlignY=58&descSize=18"/>
 </p>
 
@@ -35,13 +35,13 @@ Construyo estructuras que generan impacto, autoridad y legado.
 
 # 🚀 Proyectos Principales
 
-## ⚙️ GLOW S.A.C 
+## ⚙️ Zentrix
 
 ### Panel SMM • Infraestructura de Marketing
 
 Automatización, escalabilidad y crecimiento digital.
 
-## 👕 ATL CLOTHING
+## 👕 Dabi
 
 ### Streetwear Brand • Oversize • Minimal
 
@@ -55,13 +55,30 @@ Construcción de audiencia y presencia digital a largo plazo.
 
 ---
 
-# 🌐 Socials
+# 🌐 Socials & Spotify
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance\&logoColor=white)](https://behance.net/avnoesav)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord\&logoColor=white)](https://discord.gg/rDTH6nmVas)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://facebook.com/noesaavedrap)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/avnoesav)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/noesaavedrap)
+<p align="center">
+  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</p>
+
+---
+
+# 🎧 Escuchando ahora en Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qyzaohrftd3dahjvbzmnosuorq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qyzaohrftd3dahjvbzmnosuorq&cover_image=true&theme=default&show_offline=false&background_color=0B1120&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+</p>
+
+<p align="center">
+<i>Conectando creatividad, branding y música en una sola identidad digital.</i>
+</p>
 
 ---
 
@@ -152,15 +169,5 @@ Dream big
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1120,100:111827&height=150&section=footer"/>
-</p>
-
-<p align="center">
-  <i>“Transformando ideas en marcas, marcas en negocios y negocios en legado.”</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:1F2937&height=150&section=footer"/>
 </p>
 
