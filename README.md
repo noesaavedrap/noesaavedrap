@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1120,100:111827&height=300&section=header&text=NOE%20SAAVEDRA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20•%20Emprendedor%20Digital%20•%20Brand%20Builder&descAlignY=58&descSize=18"/>
+  <img src="https://i.pinimg.com/originals/81/a0/f8/81a0f8d43360f6ccb5ba74504d94770a.gif" width="100%">
 </p>
 
 <h1 align="center">⚡ Perfil Premium Dark Founder Style</h1>
