@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Noe%20Saavedra&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://i.pinimg.com/originals/81/a0/f8/81a0f8d43360f6ccb5ba74504d94770a.gif"/>
 </p>
 
 <h1 align="center">👋 Hola, soy Noe</h1>
