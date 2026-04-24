@@ -35,13 +35,13 @@ Construyo estructuras que generan impacto, autoridad y legado.
 
 # 🚀 Proyectos Principales
 
-## ⚙️ Zentrix
+## ⚙️ GLOW S.A.C
 
 ### Panel SMM • Infraestructura de Marketing
 
 Automatización, escalabilidad y crecimiento digital.
 
-## 👕 Dabi
+## 👕 ALT CLOTHING
 
 ### Streetwear Brand • Oversize • Minimal
 
