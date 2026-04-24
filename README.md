@@ -56,7 +56,7 @@ Siempre buscando **crear cosas grandes en internet**.
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vac6i5nleaa6koxxarzxwvoyeq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vac6i5nleaa6koxxarzxwvoyeq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=1db954&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qyzaohrftd3dahjvbzmnosuorq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
 </p>
 
