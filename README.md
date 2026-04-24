@@ -1,137 +1,140 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/a0/f8/81a0f8d43360f6ccb5ba74504d94770a.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:1F2937&height=280&section=header&text=NOE%20SAAVEDRA&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=Emprendedor%20Digital%20•%20Founder%20•%20Brand%20Builder&descAlignY=56&descSize=20"/>
 </p>
 
-<h1 align="center">⚡ Noe Saavedra</h1>
+<h1 align="center">⚡ NOE SAAVEDRA</h1>
 
 <h3 align="center">
-Fundador • Emprendedor Digital • Constructor de Marcas • Lima, Perú 🇵🇪
+Fundador • Emprendedor Digital • Constructor de Sistemas • Lima, Perú 🇵🇪
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noesaavedrap&label=Profile%20Views&color=111827&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Building%20Digital%20Empires-black?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=noesaavedrap&label=VISITAS%20AL%20PERFIL&color=0f172a&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-BUILDING%20DIGITAL%20EMPIRES-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 Sobre Mí
+# 🧠 PANEL PRINCIPAL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/18_AÑOS-Edad-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LIMA,_PERÚ-Ubicación-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOUNDER-Mentalidad-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DISCIPLINA-Enfoque-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CREADOR-De_Impacto-111827?style=for-the-badge"/>
+</p>
+
+---
+
+# 🧠 SOBRE MÍ
 
 ```yaml
 Nombre: Noe Saavedra
-Edad: 18
-Ubicación: Lima, Perú
-Rol: Fundador y Emprendedor Digital
-Misión: Construir marcas y sistemas escalables en internet
+Edad: 18 años
+Ubicación: Lima, Perú 🇵🇪
+Rol: Founder & Emprendedor Digital
+Misión: Crear marcas, sistemas y negocios escalables
+Mentalidad: Disciplina > Motivación
 ```
 
-Me enfoco en crear proyectos con visión a largo plazo:
-not temporary trends, but digital ecosystems designed to scale.
+Soy un emprendedor digital enfocado en construir proyectos con visión a largo plazo.
 
-I work at the intersection of:
+No busco tendencias pasajeras.
+Construyo estructuras digitales que escalan, permanecen y generan impacto real.
 
-* 🚀 Marketing Systems & SMM Panels
-* 👕 Streetwear & Fashion Brands
-* 🎥 Streaming & Digital Content
-* 💻 Online Business Infrastructure
-* 📈 Scalable Internet Projects
+Especializado en:
 
-Creo en construir activos, no solo ingresos.
-
-Mi objetivo no es seguir tendencias pasajeras,
-sino crear estructuras digitales que permanezcan,
-crezcan y generen impacto real.
+* 🚀 Paneles SMM & Automatización
+* 👕 Marcas Streetwear & Fashion Brands
+* 🎥 Streaming & Personal Branding
+* 💻 Infraestructura de Negocios Online
+* 📈 Sistemas escalables en internet
 
 ---
 
-# 🚀 Proyectos Actuales
+# 🚀 PROYECTOS PRINCIPALES
 
-## ⚙️ Glow SAC
+## ⚙️ ZENTRIX
 
-### SMM Panel • Digital Marketing Infrastructure
+### Panel SMM • Infraestructura de Marketing
 
-A complete system designed for scalable marketing services,
-automation, growth and digital positioning.
+Sistema diseñado para automatización, escalabilidad y crecimiento digital.
 
 ---
 
-## 👕 ATL PERU 
+## 👕 DABI
 
 ### Streetwear Brand • Oversize • Minimal • Alternative
 
-A fashion project focused on identity, oversized silhouettes,
-and modern urban aesthetics.
+Marca enfocada en identidad visual, estilo urbano y estética moderna.
 
 ---
 
-## 🎥 Noah
+## 🎥 NOAH
 
-### Streaming • Content • Personal Brand
+### Streaming • Contenido • Comunidad
 
-My digital presence focused on entertainment,
-community and long-term audience building.
+Construcción de marca personal y presencia digital a largo plazo.
 
 ---
 
-# 🌐 Conecta Conmigo
+# 🌐 CONECTA CONMIGO
+
+> Instagram • Discord • GitHub • Email
+>
+> Construyendo conexiones, negocios y oportunidades digitales.
 
 <p align="center">
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
 
-# ⚡ Estado Actual
+# ⚡ ESTADO ACTUAL
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Everyday-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Scaling%20Projects-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Available-For%20Business-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ENFOQUE-DISCIPLINA-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MENTALIDAD-CRECER-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OBJETIVO-Legado-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🛠 Tech Stack & NPM Ecosystem
+# 🛠 TECNOLOGÍAS / HERRAMIENTAS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,npm,yarn,pnpm,react,nextjs,vue,express,nestjs,html,css,tailwind,bootstrap,mongodb,mysql,postgres,redis,github,git,vscode,figma,linux,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,npm,yarn,pnpm,react,nextjs,vue,express,nestjs,html,css,tailwind,bootstrap,mongodb,mysql,postgres,redis,git,github,vscode,figma,linux,docker,kubernetes" />
 </p>
 
-### 📦 Entorno de desarrollo
+### 📦 Ecosistema de Desarrollo
 
 * Gestión de paquetes con NPM, Yarn y PNPM
-* Desarrollo backend con Node.js, Express y NestJS
-* Frontend moderno con React, Next.js y Vue
-* Interfaces optimizadas con TailwindCSS y Bootstrap
-* Bases de datos escalables con MongoDB, MySQL y PostgreSQL
-* Infraestructura con Docker, Linux y Kubernetes
+* Backend con Node.js, Express y NestJS
+* Frontend con React, Next.js y Vue
+* UI moderna con TailwindCSS y Bootstrap
+* Bases de datos con MongoDB, MySQL y PostgreSQL
+* Infraestructura con Linux, Docker y Kubernetes
 
 ---
 
-# 🧩 Integraciones Activas
+# 📊 DASHBOARD DE GITHUB
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-Connected-5865F2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spotify-Active-1DB954?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Optimized-181717?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Projects-Scaling-black?style=for-the-badge"/>
-</p>
+### Estadísticas Generales
+
+* Total de commits activos
+* Repositorios públicos escalables
+* Pull requests y contribuciones
+* Issues resueltos
+* Optimización constante del workflow
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 ESTADÍSTICAS DE GITHUB
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noesaavedrap&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -140,7 +143,7 @@ community and long-term audience building.
 
 ---
 
-# 📈 Contribution Graph
+# 📈 ACTIVIDAD EN GITHUB
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noesaavedrap&theme=tokyo-night"/>
@@ -148,7 +151,7 @@ community and long-term audience building.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 TROFEOS
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=noesaavedrap&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -156,7 +159,7 @@ community and long-term audience building.
 
 ---
 
-# 🎧 Spotify — Now Playing
+# 🎧 SPOTIFY — ESCUCHANDO AHORA
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qyzaohrftd3dahjvbzmnosuorq&redirect=true">
@@ -166,34 +169,58 @@ community and long-term audience building.
 
 ---
 
-# 🔥 Mentalidad de Fundador
+# 🚀 REPOSITORIOS DESTACADOS
+
+### spaces-panel
+
+Panel SMM completo para automatización de servicios.
+
+### dabi-store
+
+Tienda online para marca de ropa streetwear.
+
+### streaming-platform
+
+Sistema de contenido, comunidad y crecimiento digital.
+
+---
+
+# 🔥 MENTALIDAD DE FUNDADOR
 
 ```text
-Disciplina sobre motivación.
-Sistemas sobre éxito temporal.
-Activos sobre dinero rápido.
-Legado sobre atención.
+Disciplina sobre motivación
+Sistemas sobre éxito temporal
+Activos sobre dinero rápido
+Legado sobre atención
 ```
 
 ---
 
-# ⚡ Filosofía
+# 🏆 VISIÓN
+
+```text
+Build in public
+Work hard
+Dream big
+Escala primero
+Piensa en legado
+```
+
+---
+
+# ⚡ FILOSOFÍA
 
 <p align="center">
-  <i>
-  “No sigo tendencias, construyo sistemas que las crean.”
-  </i>
+  <i>“No sigo tendencias, construyo sistemas que las crean.”</i>
 </p>
 
 <p align="center">
-  <i>
-  “Transformando ideas en marcas, marcas en negocios y negocios en legado.”
-  </i>
+  <i>“Transformando ideas en marcas, marcas en negocios y negocios en legado.”</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:1F2937&height=150&section=footer"/>
 </p>
 
