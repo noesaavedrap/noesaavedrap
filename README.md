@@ -1,34 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:1F2937&height=280&section=header&text=NOE%20SAAVEDRA&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=Emprendedor%20Digital%20•%20Founder%20•%20Brand%20Builder&descAlignY=56&descSize=20"/>
+<<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1120,100:111827&height=300&section=header&text=NOE%20SAAVEDRA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20•%20Emprendedor%20Digital%20•%20Brand%20Builder&descAlignY=58&descSize=18"/>
 </p>
 
-<h1 align="center">⚡ NOE SAAVEDRA</h1>
-
-<h3 align="center">
-Fundador • Emprendedor Digital • Constructor de Sistemas • Lima, Perú 🇵🇪
-</h3>
+<h1 align="center">⚡ Perfil Premium Dark Founder Style</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noesaavedrap&label=VISITAS%20AL%20PERFIL&color=0f172a&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-BUILDING%20DIGITAL%20EMPIRES-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=noesaavedrap&label=VISITAS%20AL%20PERFIL&color=000000&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-BUILDING%20SYSTEMS-black?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 PANEL PRINCIPAL
-
-<p align="center">
-  <img src="https://img.shields.io/badge/18_AÑOS-Edad-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LIMA,_PERÚ-Ubicación-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOUNDER-Mentalidad-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DISCIPLINA-Enfoque-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CREADOR-De_Impacto-111827?style=for-the-badge"/>
-</p>
-
----
-
-# 🧠 SOBRE MÍ
+# 💫 About Me
 
 ```yaml
 Nombre: Noe Saavedra
@@ -37,181 +21,137 @@ Ubicación: Lima, Perú 🇵🇪
 Rol: Founder & Emprendedor Digital
 Misión: Crear marcas, sistemas y negocios escalables
 Mentalidad: Disciplina > Motivación
+Visión: Legacy > Attention
+Objetivo: Construir imperios digitales
 ```
 
-Soy un emprendedor digital enfocado en construir proyectos con visión a largo plazo.
+Soy un emprendedor digital enfocado en crear proyectos online,
+marcas sólidas y sistemas escalables en internet.
 
-No busco tendencias pasajeras.
-Construyo estructuras digitales que escalan, permanecen y generan impacto real.
-
-Especializado en:
-
-* 🚀 Paneles SMM & Automatización
-* 👕 Marcas Streetwear & Fashion Brands
-* 🎥 Streaming & Personal Branding
-* 💻 Infraestructura de Negocios Online
-* 📈 Sistemas escalables en internet
+No sigo tendencias.
+Construyo estructuras que generan impacto, autoridad y legado.
 
 ---
 
-# 🚀 PROYECTOS PRINCIPALES
+# 🚀 Proyectos Principales
 
-## ⚙️ ZENTRIX
+## ⚙️ GLOW S.A.C 
 
 ### Panel SMM • Infraestructura de Marketing
 
-Sistema diseñado para automatización, escalabilidad y crecimiento digital.
+Automatización, escalabilidad y crecimiento digital.
+
+## 👕 ATL CLOTHING
+
+### Streetwear Brand • Oversize • Minimal
+
+Marca enfocada en identidad, estética urbana y exclusividad.
+
+## 🎥 Noah
+
+### Streaming • Comunidad • Marca Personal
+
+Construcción de audiencia y presencia digital a largo plazo.
 
 ---
 
-## 👕 DABI
+# 🌐 Socials
 
-### Streetwear Brand • Oversize • Minimal • Alternative
-
-Marca enfocada en identidad visual, estilo urbano y estética moderna.
-
----
-
-## 🎥 NOAH
-
-### Streaming • Contenido • Comunidad
-
-Construcción de marca personal y presencia digital a largo plazo.
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance\&logoColor=white)](https://behance.net/avnoesav)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord\&logoColor=white)](https://discord.gg/rDTH6nmVas)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://facebook.com/noesaavedrap)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/avnoesav)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/noesaavedrap)
 
 ---
 
-# 🌐 CONECTA CONMIGO
+# 💻 Tech Stack
 
-> Instagram • Discord • GitHub • Email
->
-> Construyendo conexiones, negocios y oportunidades digitales.
+## ⚡ Core Stack
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge\&logo=express\&logoColor=61DAFB)
 
----
+## 📦 Package Managers
 
-# ⚡ ESTADO ACTUAL
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge\&logo=yarn\&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-4a4a4a?style=for-the-badge\&logo=pnpm\&logoColor=f69220)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ENFOQUE-DISCIPLINA-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MENTALIDAD-CRECER-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OBJETIVO-Legado-blue?style=for-the-badge"/>
-</p>
+## 🗄 Databases & Infra
 
----
-
-# 🛠 TECNOLOGÍAS / HERRAMIENTAS
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,npm,yarn,pnpm,react,nextjs,vue,express,nestjs,html,css,tailwind,bootstrap,mongodb,mysql,postgres,redis,git,github,vscode,figma,linux,docker,kubernetes" />
-</p>
-
-### 📦 Ecosistema de Desarrollo
-
-* Gestión de paquetes con NPM, Yarn y PNPM
-* Backend con Node.js, Express y NestJS
-* Frontend con React, Next.js y Vue
-* UI moderna con TailwindCSS y Bootstrap
-* Bases de datos con MongoDB, MySQL y PostgreSQL
-* Infraestructura con Linux, Docker y Kubernetes
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-# 📊 DASHBOARD DE GITHUB
+# 📊 GitHub Stats
 
-### Estadísticas Generales
+![](https://github-readme-stats.vercel.app/api?username=noesaavedrap\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
 
-* Total de commits activos
-* Repositorios públicos escalables
-* Pull requests y contribuciones
-* Issues resueltos
-* Optimización constante del workflow
+![](https://streak-stats.demolab.com/?user=noesaavedrap\&theme=tokyonight\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noesaavedrap\&theme=tokyonight\&hide_border=false\&layout=compact)
 
 ---
 
-# 📊 ESTADÍSTICAS DE GITHUB
+# 🏆 GitHub Trophies
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noesaavedrap&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noesaavedrap&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=noesaavedrap\&theme=tokyonight\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
 
-# 📈 ACTIVIDAD EN GITHUB
+# 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noesaavedrap&theme=tokyo-night"/>
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=noesaavedrap\&theme=tokyo-night)
 
 ---
 
-# 🏆 TROFEOS
+# ✍️ Founder Quote
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noesaavedrap&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
-# 🎧 SPOTIFY — ESCUCHANDO AHORA
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qyzaohrftd3dahjvbzmnosuorq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qyzaohrftd3dahjvbzmnosuorq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false"/>
-  </a>
-</p>
-
----
-
-# 🚀 REPOSITORIOS DESTACADOS
-
-### spaces-panel
-
-Panel SMM completo para automatización de servicios.
-
-### dabi-store
-
-Tienda online para marca de ropa streetwear.
-
-### streaming-platform
-
-Sistema de contenido, comunidad y crecimiento digital.
-
----
-
-# 🔥 MENTALIDAD DE FUNDADOR
+# 🔥 Founder Mindset
 
 ```text
 Disciplina sobre motivación
 Sistemas sobre éxito temporal
 Activos sobre dinero rápido
 Legado sobre atención
-```
-
----
-
-# 🏆 VISIÓN
-
-```text
 Build in public
 Work hard
 Dream big
-Escala primero
-Piensa en legado
 ```
 
 ---
 
-# ⚡ FILOSOFÍA
+# 💰 Support
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com/avnoesav)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/avnoesav)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge\&logo=patreon\&logoColor=white)](https://patreon.com/avnoesav)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/avnoesav)
+
+---
 
 <p align="center">
-  <i>“No sigo tendencias, construyo sistemas que las crean.”</i>
+<i>“No sigo tendencias, construyo sistemas que las crean.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1120,100:111827&height=150&section=footer"/>
 </p>
 
 <p align="center">
