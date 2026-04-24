@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx4Y2licGk0emVxNmNyazAwZHk0cjFjMDFkNmV6OXVpNHBoNDg4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VhQ8SZseXiU92RxDYI/giphy.gif" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW4zdzVlYmZmMzEyb2J4M2lsNTBieTNlZHgzenkzY2lkMmRpemlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/spPCbcEnpF9tMEZe2D/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">⚡ Perfil Premium Dark Founder Style</h1>
