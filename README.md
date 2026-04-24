@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1494862803310350336/1497290044371898562/ce6c0d57-fedb-4518-8c56-5a4191b59160.png?ex=69ecfb84&is=69ebaa04&hm=fa8df0ef81d9b5628efdcdb09803fe2182e6f9a8c4b2a4646ffe859496acefc0&=&format=webp&quality=lossless&width=550&height=220" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx4Y2licGk0emVxNmNyazAwZHk0cjFjMDFkNmV6OXVpNHBoNDg4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VhQ8SZseXiU92RxDYI/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">⚡ Perfil Premium Dark Founder Style</h1>
