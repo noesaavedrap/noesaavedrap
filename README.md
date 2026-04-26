@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1494862803310350336/1497292864281903215/Airbrush-IMAGE-ENHANCER-1777052793785-1777052793785.png?ex=69ecfe25&is=69ebaca5&hm=871992135d90d6312a2ab9525ec3b5d36b3123ec57b4d98ca0ad425052df9b30&=&format=webp&quality=lossless&width=1859&height=743" width="100%">
+  <img src="https://media.discordapp.net/attachments/1494862803310350336/1497292864281903215/Airbrush-IMAGE-ENHANCER-1777052793785-1777052793785.png?ex=69eef865&is=69eda6e5&hm=3a7fe72e0bea97618c309d5feed159aab21bd7d61281e2bc91740ca5530a9c0b&=&format=webp&quality=lossless&width=1859&height=743" width="100%">
 </p>
 
 <h1 align="center">⚡ Perfil Premium Dark Founder Style</h1>
